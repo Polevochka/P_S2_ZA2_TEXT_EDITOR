@@ -14,6 +14,9 @@ object Form1: TForm1
     Height = 424
     Top = 8
     Width = 643
+    Font.Height = -13
+    Font.Name = 'Monospace'
+    ParentFont = False
     ScrollBars = ssVertical
     TabOrder = 0
   end
@@ -60,7 +63,8 @@ object Form1: TForm1
     object MenuItem8: TMenuItem
       Caption = 'Обработка'
       object MenuItem9: TMenuItem
-        Caption = 'MenuItem9'
+        Caption = 'Средние балы по группам'
+        OnClick = MenuItem9Click
       end
       object MenuItem10: TMenuItem
         Caption = 'MenuItem10'
