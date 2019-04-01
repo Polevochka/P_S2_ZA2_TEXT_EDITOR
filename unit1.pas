@@ -34,6 +34,7 @@ type
     procedure MenuItem5Click(Sender: TObject);
     procedure MenuItem6Click(Sender: TObject);
     procedure MenuItem7Click(Sender: TObject);
+    procedure MenuItem9Click(Sender: TObject);
   private
 
   public
@@ -171,6 +172,37 @@ begin
     end;
   // Закрываем приложение
   close;
+end;
+
+// Обработка
+
+{Обратить порядок}
+procedure TForm1.MenuItem9Click(Sender: TObject);
+var f: textfile; // файловая переменная для взаимодействия с ним
+    i: integer;
+begin
+
+  // Предполагается, что мы уже загрузили файл в окно редактора
+  // А значит переменная sf имеет уже какое-то значение
+  // связываем переменную f и файл на диске
+  AssignFile(f, sf);
+  // Очищаем файл
+  Rewrite(f);
+
+  // Обходим строки редактора с конца
+  for i:= Memo1.Lines.count-1 downto 0 do
+  begin
+    // И записываем их по одной в наш файл
+    // Для этого используем writeLN - чтобы переходить на следующие строчки
+    writeln(f, Memo1.Lines[i]);
+  end;
+
+// В конце не забываем закрыть файл
+CloseFile(f);
+
+// Теперь чтобы увидеть изменения, надо открыть файл через редактор
+// Так давайте это и сообщим пользователю
+ShowMessage('Файл успешно инвертирован. Чтобы увидеть изменения' + #13 + 'откройте занаво файл: ' + #13 + sf);
 end;
 
 
