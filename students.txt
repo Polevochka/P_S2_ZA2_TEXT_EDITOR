@@ -1,0 +1,13 @@
+ 1 Pushkin      SM4-21   4 4 4
+ 2 Dantes       RKT3-21  3 3 3
+ 3 Lermantov    RKT3-21  5 4 0
+ 4 Paramonov    RKT2-21  5 5 5
+ 5 Lavochkin    AK3-21   5 4 0
+ 6 Gorkiy       RKT3-21  2 2 5
+ 7 Sladkiy      IU7-21   5 4 5
+ 8 Dobrovolev   IU6-21   2 2 2
+ 9 Tugarin      AK3-21   3 3 2
+10 Popovich     RK3-21   5 5 5
+11 Vetkin       IU7-21   5 5 4
+12 Lukashenko   SM4-21   5 2 5
+13 Putin        EDRO-21  5 5 5
