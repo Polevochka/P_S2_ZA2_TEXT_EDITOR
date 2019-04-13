@@ -4,7 +4,6 @@
  4 Penetrator   RKT2-21  5 5 5
  5 Avodkin      AK3-21   5 4 0
  6 Vetrov       RKT3-21  2 2 5
- 7 Sidorov      IU7-21   5 4 5
  8 Penoplastov  IU6-21   2 2 2
  9 Kurochkin    AK3-21   3 3 2
 10 Animeshnikov RK3-21   5 5 5
