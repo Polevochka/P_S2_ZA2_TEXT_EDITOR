@@ -1,0 +1,12 @@
+ 1 Annenkova    RKT4-21  5 5 5
+ 2 Sidorov      RKT2-21  3 3 3
+ 3 Smirnov      RKT2-21  5 4 0
+ 4 Pasinkov     RKT4-21  4 5 5
+ 5 Makaronin    RKT3-21  5 4 3
+ 6 Marmeladov   RKT3-21  2 2 5
+ 7 Korastelev   RKT1-21  5 4 5
+ 8 Mihaylov     RKT3-21  2 2 2
+ 9 Kurochkin    RKT2-21  3 3 2
+10 Ponochkin    SM4-21   5 5 5
+11 Zikov        RKT3-21  5 5 4
+12 Dubrovin     FN4-21   5 5 5
