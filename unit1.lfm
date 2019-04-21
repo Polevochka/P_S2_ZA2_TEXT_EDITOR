@@ -1,19 +1,19 @@
 object Form1: TForm1
-  Left = 101
-  Height = 435
-  Top = 155
-  Width = 649
+  Left = 36
+  Height = 504
+  Top = 120
+  Width = 733
   Caption = 'Form1'
-  ClientHeight = 410
-  ClientWidth = 649
+  ClientHeight = 479
+  ClientWidth = 733
   Menu = MainMenu1
   OnCreate = FormCreate
   LCLVersion = '1.8.4.0'
   object Memo1: TMemo
     Left = 5
-    Height = 424
+    Height = 464
     Top = 8
-    Width = 643
+    Width = 728
     Font.Height = -13
     Font.Name = 'Monospace'
     ParentFont = False
@@ -67,7 +67,8 @@ object Form1: TForm1
         OnClick = MenuItem9Click
       end
       object MenuItem10: TMenuItem
-        Caption = 'MenuItem10'
+        Caption = 'Добавить строку'
+        OnClick = MenuItem10Click
       end
     end
   end
