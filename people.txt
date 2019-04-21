@@ -1,0 +1,12 @@
+ 1 Dubrovin     SM4-21   5 5 5
+ 2 Sidorov      IU1-21   5 5 5
+ 3 Skvorcov     RKT2-21  5 4 4
+ 4 Nikolaev     RKT2-21  5 5 5
+ 5 Petrov       IU1-21   5 4 3
+ 6 Chelomey     RKT1-21  2 2 5
+ 7 Zuganov      IU7-21   5 4 5
+ 8 Girinovsky   RKT1-21  2 2 2
+ 9 Karamzin     RKT4-21  5 5 5
+10 Pecherin     RKT4-21  5 5 5
+11 Melnikov     IU7-21   5 5 4
+12 Korostelev   SM4-21   5 2 5

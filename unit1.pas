@@ -34,6 +34,7 @@ type
     procedure MenuItem5Click(Sender: TObject);
     procedure MenuItem6Click(Sender: TObject);
     procedure MenuItem7Click(Sender: TObject);
+    procedure MenuItem9Click(Sender: TObject);
   private
 
   public
@@ -160,6 +161,15 @@ begin
     end;
   // Закрываем приложение
   close;
+end;
+
+
+// Обработка
+
+{Число отличников по группам}
+procedure TForm1.MenuItem9Click(Sender: TObject);
+begin
+
 end;
 
 
