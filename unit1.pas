@@ -28,12 +28,14 @@ type
     OpenDialog1: TOpenDialog;
     SaveDialog1: TSaveDialog;
     procedure FormCreate(Sender: TObject);
+    procedure MenuItem10Click(Sender: TObject);
     procedure MenuItem2Click(Sender: TObject);
     procedure MenuItem3Click(Sender: TObject);
     procedure MenuItem4Click(Sender: TObject);
     procedure MenuItem5Click(Sender: TObject);
     procedure MenuItem6Click(Sender: TObject);
     procedure MenuItem7Click(Sender: TObject);
+    procedure MenuItem9Click(Sender: TObject);
   private
 
   public
@@ -160,6 +162,20 @@ begin
     end;
   // Закрываем приложение
   close;
+end;
+
+// Обработка
+
+{Обработка 1}
+procedure TForm1.MenuItem9Click(Sender: TObject);
+begin
+
+end;
+
+{Обработка 2}
+procedure TForm1.MenuItem10Click(Sender: TObject);
+begin
+
 end;
 
 
