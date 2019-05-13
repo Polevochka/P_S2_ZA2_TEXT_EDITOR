@@ -6,16 +6,18 @@ object Form1: TForm1
   Caption = 'Form1'
   ClientHeight = 410
   ClientWidth = 649
+  Font.Height = -13
+  Font.Name = 'Courier New'
   Menu = MainMenu1
   OnCreate = FormCreate
-  LCLVersion = '1.8.4.0'
+  LCLVersion = '1.8.2.0'
   object Memo1: TMemo
     Left = 5
     Height = 424
     Top = 8
     Width = 643
     Font.Height = -13
-    Font.Name = 'Monospace'
+    Font.Name = 'Courier New'
     ParentFont = False
     ScrollBars = ssVertical
     TabOrder = 0
@@ -63,10 +65,12 @@ object Form1: TForm1
     object MenuItem8: TMenuItem
       Caption = 'Обработка'
       object MenuItem9: TMenuItem
-        Caption = 'MenuItem9'
+        Caption = 'Список групп'
+        OnClick = MenuItem9Click
       end
       object MenuItem10: TMenuItem
-        Caption = 'MenuItem10'
+        Caption = 'Выбор по фамилии'
+        OnClick = MenuItem10Click
       end
     end
   end

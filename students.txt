@@ -1,0 +1,12 @@
+ 1 Petrosyan    RKT4-21  4 4 4
+ 2 Cherkasov    RKT3-21  5 5 4
+ 3 Nikulin      RKT2-21  5 5 5
+ 4 Putin        RKT2-21  5 5 5
+ 5 Prtrov       SM4-21   5 4 4
+ 6 Sidorov      RKT3-21  2 2 3
+ 7 Sidorov      MT3-21   5 4 5
+ 8 Putin        SM4-21   2 2 2
+ 9 Korastelev   MT3-21   3 3 2
+10 Bauman       RKT4-21  5 5 5
+11 Maksvel      IU7-21   5 5 4
+12 Mendeleev    SM4-21   5 2 5
