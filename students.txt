@@ -1,0 +1,14 @@
+ 1 Mamontov     RKT2-21  5 4 5
+ 2 Kartoshkin   RKT3-21  5 4 4
+ 3 Koshkin      RKT2-21  5 5 5
+ 4 Moshkin      RKT1-21  5 5 4
+ 5 Parovozov    RKT4-21  4 4 4
+ 6 Pushkin      RKT1-21  4 3 4
+ 7 Samorodok    SM4-21   5 2 5
+ 8 Pasternak    RKT3-21  3 3 3
+ 9 Parusov      RKT1-21  5 2 2
+10 Belyaev      SM4-21   5 4 2
+11 Abdulin      RKT3-21  5 5 5
+12 Muzichenko   SM4-21   3 5 4
+13 Romashkin    RKT4-21  4 5 2
+14 Ptashkin     RKT4-21  3 3 3
