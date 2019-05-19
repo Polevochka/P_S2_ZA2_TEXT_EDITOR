@@ -1,0 +1,15 @@
+ 1 Bulgakov     SM4-21  3 3 3
+ 2 Agutin       SM1-21  2 2 2
+ 3 Smolov       RKT3-21 2 2 5
+ 4 Grishko      SM4-21  5 2 5
+ 5 Nazarbaev    RKT2-21 5 5 5
+ 6 Paramonov    RK3-21  5 5 5
+ 7 Grushbickiy  SM4-21  4 4 4
+ 8 Rastarguev   SM1-21  5 4 5
+ 9 Pugachev     SM4-21  3 3 2
+10 Romanov      RKT3-21 5 5 4
+11 Sergeev      RKT2-21 4 3 3
+12 Polyakov     SM1-21  3 3 3
+13 Sorokin      RKT2-21 5 4 5
+14 Korolev      SM1-21  5 5 5
+15 Komarov      RKT3-21 2 3 2
