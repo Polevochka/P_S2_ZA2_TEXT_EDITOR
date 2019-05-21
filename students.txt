@@ -1,0 +1,15 @@
+ 1 Pahomov      SM4-21  3 3 3
+ 2 Gorshkov     SM1-21  2 2 2
+ 3 Loginov      RKT3-21 2 2 5
+ 4 Ribakov      SM4-21  5 2 5
+ 5 Hohlov       RKT2-21 5 5 5
+ 6 Muhin        RK3-21  5 5 5
+ 7 Lobanov      SM4-21  4 4 4
+ 8 Platonov     SM1-21  5 4 5
+ 9 Zuev         SM4-21  3 3 2
+10 Paklad       RKT3-21 5 5 4
+11 Zavyazkin    RKT2-21 5 5 5
+12 Serov        SM1-21  3 3 3
+13 Saharov      RKT2-21 5 4 5
+14 Nosov        SM1-21  5 5 5
+15 Sedov        RKT3-21 2 3 2
